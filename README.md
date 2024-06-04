@@ -24,7 +24,7 @@ The repository is organized as follows:
 - `raw_dataset/`: Contains the results of scraping F&B locations and reviews from 300 sub-districts in 6 provinces on the island of Java.
 - `sentiment_dataset/`: Contains the results of 10000 reviews labeled as criticism/suggestion and not criticism/suggestion.
 - `clustering_dataset/`: Contains datasets that have been preprocessed for clustering.
-- `chatbotfelix/`:
+- `chatbot/`:
 
 ## Contributing
 
